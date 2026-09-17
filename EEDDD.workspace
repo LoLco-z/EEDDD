@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EEDDD" Database="" Version="10000">
+  <Project Name="Ejemplo01.2" Path="Ejemplo01.2/Ejemplo01.2.project" Active="Yes"/>
+  <Project Name="Ejemplo02.2" Path="Ejemplo02.2/Ejemplo02.2.project" Active="No"/>
+  <Project Name="Ejemplo03.2" Path="Ejemplo03.2/Ejemplo03.2.project" Active="No"/>
+  <Project Name="Ejemplo04.2" Path="Ejemplo04.2/Ejemplo04.2.project"/>
+  <Project Name="Ejemplo05.2" Path="Ejemplo05.2/Ejemplo05.2.project"/>
+  <Project Name="Ejemplo06.2" Path="Ejemplo06.2/Ejemplo06.2.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplo01.2" ConfigName="Debug"/>
+      <Project Name="Ejemplo02.2" ConfigName="Debug"/>
+      <Project Name="Ejemplo03.2" ConfigName="Debug"/>
+      <Project Name="Ejemplo04.2" ConfigName="Debug"/>
+      <Project Name="Ejemplo05.2" ConfigName="Debug"/>
+      <Project Name="Ejemplo06.2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ejemplo01.2" ConfigName="Release"/>
+      <Project Name="Ejemplo02.2" ConfigName="Release"/>
+      <Project Name="Ejemplo03.2" ConfigName="Release"/>
+      <Project Name="Ejemplo04.2" ConfigName="Release"/>
+      <Project Name="Ejemplo05.2" ConfigName="Release"/>
+      <Project Name="Ejemplo06.2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
